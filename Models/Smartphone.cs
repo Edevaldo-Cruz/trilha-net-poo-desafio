@@ -17,7 +17,7 @@ namespace DesafioPOO.Models
 
         public void Ligar()
         {
-            Console.WriteLine("Olá, bem vido de volta...");
+            Console.WriteLine("Olá, bem vindo de volta...");
         }
 
         public void ReceberLigacao()
